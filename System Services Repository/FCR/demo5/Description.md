@@ -6,7 +6,7 @@ Demo 5 corresponds to the final i-STENTORE demonstrator **Green Steel Production
 
 The final Demo 5 configuration is located at the OVAKO industrial site in Hofors. The demonstrator integrates a Li-ion Battery Energy Storage System with an industrial green-steel production environment involving hydrogen production, furnace operation and heat recovery. Within this environment, the BESS is the main controllable asset for fast electrical flexibility.
 
-In the final Service Repository scope, Demo 5 provides only:
+In the final Service Repository scope, Demo 5 provides:
 
 - Energy Arbitrage;
 - Frequency Containment Reserve.
@@ -47,7 +47,7 @@ The service aims to:
 | Communication layer | MQTT and Modbus TCP, where applicable |
 | Monitoring layer | PMU / WAMSTER and site data acquisition |
 | Final repository status | Active final Demo 5 service |
-| Excluded final Demo 5 frequency services | aFRR and mFRR |
+
 
 ---
 
@@ -201,7 +201,7 @@ The monitoring system records:
 - state of charge;
 - activation duration;
 - service availability;
-- warnings and alarms.
+
 
 ### 5. Data Storage and Reporting
 
